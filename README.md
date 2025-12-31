@@ -9,9 +9,19 @@
 <p align="center">🚀 Open for New Opportunities</p>
 
 <h2 align="center"> 👨‍💻 Who Am I</h2>
-<p align="center">
-  <samp>I am a passionate Senior QE & Automation Engineer with over 7 years of experience specializing in high-scale automation for Web, API, and Mobile. Proven expertise in designing and scaling robust automation frameworks using Playwright and Cypress with JavaScript and Selenium and Rest-Assured with Java.
-Expert in architecting CI/CD pipelines (Jenkins, AWS) to support daily production releases, successfully managing 20+ regression suites and validating 1,000+ API endpoints within complex microservices architectures. Deep domain expertise across Logistics (UPS), Insurance, and Energy/Utilities (British Gas), including hands-on experience with backend systems like SAP, Salesforce, and Oracle. A results-driven leader with a track record of reducing defects, mitigating test flakiness, and accelerating release cycles through advanced automation and mentorship.</samp>
+
+<p align="center" style="font-family: Calibri, sans-serif; font-weight: 900; font-size: 16px; line-height: 1.6;">
+  I am a passionate Senior QE & Automation Engineer with over 7 years of experience 
+  specializing in high-scale automation for Web, API, and Mobile. Proven expertise in 
+  designing and scaling robust automation frameworks using Playwright and Cypress with 
+  JavaScript and Selenium and Rest-Assured with Java.
+  Expert in architecting CI/CD pipelines (Jenkins, AWS) to support daily production 
+  releases, successfully managing 20+ regression suites and validating 1,000+ API 
+  endpoints within complex microservices architectures. Deep domain expertise across 
+  Logistics (UPS), Insurance, and Energy/Utilities (British Gas), including hands-on 
+  experience with backend systems like SAP, Salesforce, and Oracle. A results-driven 
+  leader with a track record of reducing defects, mitigating test flakiness, and 
+  accelerating release cycles through advanced automation and mentorship.
 </p>
 
 <hr>
@@ -20,6 +30,8 @@ Expert in architecting CI/CD pipelines (Jenkins, AWS) to support daily productio
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23F7DF1C.svg?&style=for-the-badge&logo=java&logoColor=black" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/selenium%20-%2328A3E2.svg?&style=for-the-badge&logo=selenium&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/cypress-%230173C2.svg?&style=for-the-badge&logo=cypress&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/playwright-%23000000.svg?&style=for-the-badge&logo=playwright&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/testng%20-%2361DAFB.svg?&style=for-the-badge&logo=testng&logoColor=black" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-%233B71FE.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -28,7 +40,6 @@ Expert in architecting CI/CD pipelines (Jenkins, AWS) to support daily productio
   <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/rest%20api-%23F7DF1C.svg?&style=for-the-badge&logo=rest&logoColor=black" />
 </p>
-<p align="center">Java, JavaScript, Cypress, Playwright Selenium WebDriver, TestNG, Cucumber, JIRA, Git, Jenkins, Docker, Azure, REST API.</p>
 
 <hr>
 
